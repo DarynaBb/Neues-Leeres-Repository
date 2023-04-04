@@ -8,7 +8,7 @@
 
 - [Description for this project](filme/Schindler'sListe.md)
 
-- ![Poster](bilder/Schindler.jpg)
+  ![Poster](bilder/Schindler.jpg)
 
 ### Forrest Gump
 - Link zur [IMDB-Website](https://www.imdb.com/title/tt0109830/?ref_=adv_li_tt)
