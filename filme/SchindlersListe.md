@@ -18,3 +18,11 @@
 
 
 >Wer ein einziges Leben rettet, der rettet die ganze Welt.
+
+
+| Darsteller | Rollename |
+| ------------- | ------------- |
+| Liam Neeson  | Oskar Schindler  |
+| Ben Kingsley  | Itzhak Stern  |
+| Ralph Fiennes  | Amon Göth  |
+
