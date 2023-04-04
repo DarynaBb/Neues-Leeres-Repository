@@ -30,3 +30,13 @@
 
  ![poster](https://upload.wikimedia.org/wikipedia/en/c/c2/The_Vow_Poster.jpg) 
 
+ ###  AVTAR 
+ - LINK ZUR  [Imdb-website](https://www.imdb.com/title/tt1630029/)
+
+     ![Avtar cover](/Bilder/image_f1bcb2d5.webp)
+
+
+    ### I am a legend 
+    -  LINK ZUR  [Imdb-website](https://www.imdb.com/title/tt0480249/?ref_=nv_sr_srsg_0)
+
+        ![film cover](/Bilder/p170977_v_h10_aa.jpg)
