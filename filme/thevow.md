@@ -12,3 +12,10 @@ The Vow is a 2012 **American romantic drama** film directed by *Michael Sucsy* a
 
 >
 
+
+| Rollename  | Darstellename |
+| ------------- | ------------- |
+| Paige Collins  | Rachel McAdams |
+| Leo Collins  |   Channing Tatu  |
+|Bill Thornton  | Sam Neill |
+| Jeremy | Scott Speedman |
