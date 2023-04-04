@@ -33,7 +33,7 @@
  ###  AVTAR 
  - LINK ZUR  [Imdb-website](https://www.imdb.com/title/tt1630029/)
 
-     ![Avtar cover](/Bilder/image_f1bcb2d5.webp)
+     ![Avtar cover](TOP-10-Liste/Bilder/image_f1bcb2d5.webp)
 
 
     ### I am a legend 
