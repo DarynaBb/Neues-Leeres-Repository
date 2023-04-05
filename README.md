@@ -1,6 +1,6 @@
 # H1-Überschrift :weight_lifting_woman:
 
-## Lieblingsbucher
+## Lieblingsbucher und .....
 
 ### Schindler's List
 - Link zur [IMDB-Webseite](https://www.imdb.com/title/tt0108052/?ref_=adv_li_tt)
@@ -10,7 +10,7 @@
 
   ![Poster](bilder/Schindler.jpg)
 
-### Forrest Gump und noch etwas
+### Forrest Gump und noch etwas .....
 - Link zur [IMDB-Website](https://www.imdb.com/title/tt0109830/?ref_=adv_li_tt)
 
 - [Description for this project](filme/ForrestGump.md)
