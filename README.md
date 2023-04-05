@@ -1,7 +1,7 @@
 # H1-Überschrift :weight_lifting_woman:
 
 
-## Lieblingsbucher
+## Lieblingsbucher :blush:
 
 ## Lieblingsfilme :space_invader: :ghost:
 
@@ -14,7 +14,7 @@
   ![Poster](bilder/Schindler.jpg)
 
 
-### Forrest Gump und noch etwas
+### Forrest Gump und noch etwas :nail_care:
 ### Forrest Gump :japanese_goblin:
 - Link zur [IMDB-Website](https://www.imdb.com/title/tt0109830/?ref_=adv_li_tt)
 
